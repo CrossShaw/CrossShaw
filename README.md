@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on the gene-environment interaction on brain imaging derived phenotypes
+- 🌱 I’m currently learning imaging genetics
 <!--
 **CrossShaw/CrossShaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
